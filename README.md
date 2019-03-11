@@ -1,15 +1,6 @@
 # flappy-square
 This is a flappy bird-like javascript game built from scratch. 
 
-### Screenshots
-![alt text](https://github.com/zapateros/flappy-square/blob/master/images/printscreens/printscreens.png "printscreen flappy square")
-
-
-### Includes
-- Physics
-- Collision detection
-- In-game difficulty changer
-
 ### How to play
 1. Download files
 2. Open index.html with your preferred browser
@@ -17,6 +8,14 @@ This is a flappy bird-like javascript game built from scratch.
 4. Use the arrows to avoid flying into the green obstacles
 5. Catch the blue square to decrease in size and lower the difficulty
 6. Beat your own highscore
+
+### Screenshots
+![alt text](https://github.com/zapateros/flappy-square/blob/master/images/printscreens/printscreens.png "printscreen flappy square")
+
+### Includes
+- Physics
+- Collision detection
+- In-game difficulty changer
 
 ### Possible improvements
 - Add speeding up 
