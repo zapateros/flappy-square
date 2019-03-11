@@ -20,5 +20,5 @@ This is a flappy bird-like javascript game built from scratch.
 ### Possible improvements
 - Add speeding up 
 - Collision detection module instead of hardcoded
-- Improve collision detection: eventhough you have collided, it could look like it doesn't, as the obstacle and the player-square are not always touching. So I should synchronize the calculation and the display in a way.
+- Improve collision detection: eventhough the player-square and the obstacle have collided, it could look like they didn't, as they are not always touching. So I should synchronize the calculation and the display in a way.
 - Add extra types of obstacles
