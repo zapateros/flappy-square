@@ -16,6 +16,7 @@ This is a flappy bird-like javascript game built from scratch.
 - Physics
 - Collision detection
 - In-game difficulty changer
+- Local storage (highscore)
 
 ### Possible improvements
 - Add speeding up 
